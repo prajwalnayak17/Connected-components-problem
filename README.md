@@ -2,6 +2,8 @@
 
 This project is a web application that allows users to input a graph's nodes and edges, specify a starting node, and then visualize the graph and its traversal as forests. The application is built using React and TypeScript, and it leverages the `react-d3-graph` library for graph visualization.
 
+## Additonal Note : When output is generated please avoid scroll and click over the graph as there is still a bug which i am working to fix it
+
 ## Features
 
 - **Node and Edge Input:** Users can input nodes and edges to define the graph.
