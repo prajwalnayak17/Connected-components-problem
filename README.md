@@ -38,3 +38,29 @@ This project is a web application that allows users to input a graph's nodes and
    ```bash
    git clone https://github.com/your-username/graph-traversal-visualization.git
    cd graph-traversal-visualization
+2. Install dependencies:
+
+   ```bash
+   npm install
+   npm start
+
+
+
+### Explanation:
+
+- **Project Overview:** A brief introduction to what the project does.
+- **Features:** Lists the key functionalities of the application.
+- **Project Structure:** A simple outline of the file structure, explaining the purpose of each component.
+- **Getting Started:** Step-by-step instructions on how to set up the project locally.
+- **Usage:** Basic instructions on how to use the application once it's running.
+- **Customization:** Points out where and how users can tweak the graph's appearance or functionality.
+- **Dependencies:** Lists the main libraries used in the project.
+- **Contributing:** Encourages contributions and explains how to do so.
+- **License and Acknowledgments:** Standard sections for legal information and credits.
+
+
+
+
+  
+
+   
