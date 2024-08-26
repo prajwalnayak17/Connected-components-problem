@@ -1,0 +1,114 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"], input[type="number"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .added-message {
+    color: green;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .output-container {
+    margin-top: 40px;
+    text-align: center;
+  }
+  
+  .output-container {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .forest {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .forest:nth-child(1) {
+    background-color: #ffadad;
+  }
+  
+  .forest:nth-child(2) {
+    background-color: #ffd6a5;
+  }
+  
+  .forest:nth-child(3) {
+    background-color: #fdffb6;
+  }
+  
+  .forest:nth-child(4) {
+    background-color: #caffbf;
+  }
+  
+  .forest:nth-child(5) {
+    background-color: #9bf6ff;
+  }
+  
+  .forest:nth-child(6) {
+    background-color: #a0c4ff;
+  }
+  
+  .forest:nth-child(7) {
+    background-color: #bdb2ff;
+  }
+  
+  .forest:nth-child(8) {
+    background-color: #ffc6ff;
+  }
+  
+  .forest:nth-child(9) {
+    background-color: #fffffc;
+  }
+  
+
+
+  
